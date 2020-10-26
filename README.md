@@ -12,5 +12,6 @@
 - [微信通知](https://github.com/YooKing/HAUT_autoCheck/wiki#微信通知)  
 - [关闭打卡](https://github.com/YooKing/HAUT_autoCheck/wiki#关闭打卡)  
 - ~~[抓包](https://github.com/YooKing/HAUT_autoCheck/wiki#zhuabao)~~(本校无需抓包，EzCheckInSchool已提供全部班级 Deptid JSON文件。)
+
 ## 许可
 本项目以 MIT 协议开源，详情请见 [LICENSE](LICENSE) 文件。
